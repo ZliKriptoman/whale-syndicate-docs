@@ -1,4 +1,5 @@
 ---
+title: Whale Syndicate
 description: The only tap-to-earn game where you build a crypto empire whilst sipping tea
 cover: .gitbook/assets/cover.png
 coverY: 0
