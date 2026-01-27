@@ -563,7 +563,7 @@ TON/Stars exchange rate fluctuates. Dynamic pricing ensures fair value regardles
 - Item not delivered after 5 minutes
 - Duplicate charge
 
-**Contact support:** [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
+**Contact support:** [@WSPORTAL](https://t.me/WSPORTAL)
 
 ***
 
