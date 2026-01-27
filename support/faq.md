@@ -272,7 +272,7 @@ Check [Premium Packages](../premium/packages.md) for details.
 **Still not credited?**
 
 1. Screenshot transaction ID
-2. Post in [@WSPORTAL](https://t.me/WSPORTAL)
+2. Post in [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 3. Tag @admin (we'll investigate)
 
 **We'll fix it manually** if there's proof of payment.
@@ -480,7 +480,7 @@ Top players typically have:
 
 **Still broken?**
 
-Report in [@WSPORTAL](https://t.me/WSPORTAL) with:
+Report in [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT) with:
 - Device type
 - Browser
 - Screenshot of error
@@ -532,7 +532,7 @@ Report in [@WSPORTAL](https://t.me/WSPORTAL) with:
 2. **Banned** (check notifications for ban message)
 3. **Database issue** (extremely rare)
 
-**Contact support immediately** in [@WSPORTAL](https://t.me/WSPORTAL).
+**Contact support immediately** in [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT).
 
 **We can recover accounts** if you provide:
 - Telegram ID
@@ -690,7 +690,7 @@ Seed phrases are the ONLY way to recover wallets.
 
 **Appeal:**
 
-If you think it's a mistake, contact [@WSPORTAL](https://t.me/WSPORTAL).
+If you think it's a mistake, contact [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT).
 
 **Most bans are deserved.** We rarely make mistakes.
 
@@ -725,7 +725,7 @@ If you think it's a mistake, contact [@WSPORTAL](https://t.me/WSPORTAL).
 
 📢 [@WhaleSyndicateGAME](https://t.me/WhaleSyndicateGAME) - Announcements
 
-💬 [@WSPORTAL](https://t.me/WSPORTAL) - Community support
+💬 [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT) - Community support
 
 **Response time:** Usually <24 hours
 
@@ -839,7 +839,7 @@ We're British. We drive Aston Martins.
 
 **Ask in the community:**
 
-[@WSPORTAL](https://t.me/WSPORTAL)
+[@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 
 **Chances are:**
 - Someone already asked

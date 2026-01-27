@@ -189,7 +189,7 @@ We'll announce it LOUDLY on:
 
 📢 [@WhaleSyndicateGAME](https://t.me/WhaleSyndicateGAME) (Telegram)
 
-💬 [@WSPORTAL](https://t.me/WSPORTAL) (Community)
+💬 [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT) (Community)
 
 🎮 In-game notification
 
@@ -404,7 +404,7 @@ If they ask for money or seed phrases, it's definitely a scam.
 
 **Telegram:**
 - 📢 [@WhaleSyndicateGAME](https://t.me/WhaleSyndicateGAME) - Announcements
-- 💬 [@WSPORTAL](https://t.me/WSPORTAL) - Community
+- 💬 [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT) - Community
 
 **In-Game:**
 - 🎮 Notifications tab (we'll tell you there first)
@@ -567,7 +567,7 @@ Because we're British, and we don't do hype.
 
 → Join [@WhaleSyndicateGAME](https://t.me/WhaleSyndicateGAME) on Telegram
 
-→ Chat with the community [@WSPORTAL](https://t.me/WSPORTAL)
+→ Chat with the community [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 
 → Actually play the game [@WhaleSyndicate_Bot](https://t.me/WhaleSyndicate_Bot)
 

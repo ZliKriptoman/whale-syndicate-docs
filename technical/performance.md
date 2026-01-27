@@ -587,7 +587,7 @@ The architecture scales automatically.
 - Not yet (but considering)
 
 **Bug Reports:**
-- [@WSPORTAL](https://t.me/WSPORTAL)
+- [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 
 ### For Players
 
@@ -625,7 +625,7 @@ Still broken? Report in chat.
 
 If still not credited:
 1. Screenshot transaction ID
-2. Report in [@WSPORTAL](https://t.me/WSPORTAL)
+2. Report in [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 3. We'll investigate manually
 
 </details>

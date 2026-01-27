@@ -77,7 +77,7 @@ Also, we're quite entertaining.
 
 **The pub where everyone hangs out:**
 
-💬 [@WSPORTAL](https://t.me/WSPORTAL)
+💬 [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 
 **Verification required** (anti-spam measure)
 
@@ -160,7 +160,7 @@ Real support happens in the public chat.
 
 **Payment failures, account problems, bugs:**
 
-**Contact via:** [@WSPORTAL](https://t.me/WSPORTAL)
+**Contact via:** [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 
 **How to get help:**
 
@@ -212,7 +212,7 @@ It's either:
 **Trust ONLY:**
 - [@WhaleSyndicate_Bot](https://t.me/WhaleSyndicate_Bot)
 - [@WhaleSyndicateGAME](https://t.me/WhaleSyndicateGAME)
-- [@WSPORTAL](https://t.me/WSPORTAL)
+- [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 
 ***
 
@@ -224,7 +224,7 @@ It's either:
 |----------|------|---------|
 | **Game Bot** | [@WhaleSyndicate_Bot](https://t.me/WhaleSyndicate_Bot) | Play the game |
 | **Channel** | [@WhaleSyndicateGAME](https://t.me/WhaleSyndicateGAME) | Announcements |
-| **Community** | [@WSPORTAL](https://t.me/WSPORTAL) | Chat & support |
+| **Community** | [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT) | Chat & support |
 | **Docs** | [whalesyndicate.gitbook.io](https://whalesyndicate.gitbook.io) | This website |
 
 **Save these.** Bookmark them. Write them down.
@@ -246,7 +246,7 @@ It's either:
 
 1. **Don't respond**
 2. **Take screenshot**
-3. **Report in [@WSPORTAL](https://t.me/WSPORTAL)**
+3. **Report in [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)**
 4. **Block them**
 
 {% hint style="danger" %}
@@ -313,7 +313,7 @@ We keep the community clean.
 
 **Support:**
 - Community admins (volunteers)
-- Active in [@WSPORTAL](https://t.me/WSPORTAL)
+- Active in [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 - Speak English (mostly)
 
 **Philosophy:**
@@ -353,7 +353,7 @@ We keep the community clean.
 
 **Let us know what you'd like to see!**
 
-Vote in [@WSPORTAL](https://t.me/WSPORTAL)
+Vote in [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 
 ***
 
@@ -376,7 +376,7 @@ When we expand to other platforms, we'll update this page with:
 
 ### We're Here to Help
 
-**Got a question?** → [@WSPORTAL](https://t.me/WSPORTAL)
+**Got a question?** → [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 
 **Found a bug?** → Report in chat
 
@@ -410,7 +410,7 @@ We won't rug pull you.
 
 📢 Announcements: [@WhaleSyndicateGAME](https://t.me/WhaleSyndicateGAME)
 
-💬 Community: [@WSPORTAL](https://t.me/WSPORTAL)
+💬 Community: [@WhaleSyndicate_CHAT](https://t.me/WhaleSyndicate_CHAT)
 
 📖 Docs: [whalesyndicate.gitbook.io](https://whalesyndicate.gitbook.io)
 

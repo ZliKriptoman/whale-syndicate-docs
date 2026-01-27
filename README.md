@@ -54,7 +54,7 @@ No lottery. No random draw. **Pure meritocracy.**
 |------|---------|
 | [🎮 **Play Game**](https://t.me/WhaleSyndicate_Bot) | Start tapping now |
 | [📢 **Official Channel**](https://t.me/WhaleSyndicateGAME) | News & announcements |
-| [💬 **Community Chat**](https://t.me/WSPORTAL) | Join the conversation |
+| [💬 **Community Chat**](https://t.me/WhaleSyndicate_CHAT) | Join the conversation |
 
 ***
 
