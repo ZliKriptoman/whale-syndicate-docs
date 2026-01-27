@@ -10,7 +10,7 @@ Whale Syndicate is **completely free-to-play**, but premium packages offer serio
 
 **All purchases use:**
 - 💎 **TON cryptocurrency** (via TonConnect)
-- ⭐ **Telegram Stars** (in-app currency)
+- ⭐ **Telegram Stars** (in-app currency, dynamically priced based on real-time TON rate)
 
 **No subscriptions. One-time purchases only.**
 
@@ -34,18 +34,22 @@ Coins Per Tap = Current Level × Leverage
 
 ### Available Leverage Tiers
 
-| Tier | Multiplier | TON Price | Stars Price |
-|------|------------|-----------|-------------|
-| **Leverage 1** | x2 | 5 TON | 500 Stars |
-| **Leverage 2** | x3 | 7.5 TON | 750 Stars |
-| **Leverage 3** | x4 | 10 TON | 1,000 Stars |
+| Tier | Multiplier | TON Price |
+|------|------------|-----------|
+| **Leverage 1** | x2 | 5 TON |
+| **Leverage 2** | x3 | 7.5 TON |
+| **Leverage 3** | x4 | 10 TON |
 
 {% hint style="info" %}
-**Leverage is STACKABLE but purchases are sequential.**
+**Telegram Stars Payment Available:**
 
-You must buy Leverage 1 before Leverage 2, etc.
+Stars pricing is **dynamically calculated** based on real-time TON/Stars exchange rate.
 
-**Total for x4:** 5 + 7.5 + 10 = 22.5 TON (or 2,250 Stars)
+Prices shown in-game at checkout.
+
+**Leverage is STACKABLE** but purchases are sequential — you must buy Leverage 1 before Leverage 2, etc.
+
+**Total for x4:** 5 + 7.5 + 10 = 22.5 TON
 {% endhint %}
 
 ### Earnings Impact
@@ -113,10 +117,14 @@ Pays for itself in **1-2 weeks** if you hit Happy Fifth daily.
 
 ### Pricing
 
-| Your Level | TON Price | Stars Price |
-|------------|-----------|-------------|
-| **1-49** | 50 TON | 5,000 Stars |
-| **50+** | Not available | - |
+| Your Level | TON Price |
+|------------|-----------|
+| **1-49** | 50 TON |
+| **50+** | Not available |
+
+{% hint style="info" %}
+**Telegram Stars payment available** with dynamic pricing based on current TON/Stars rate.
+{% endhint %}
 
 {% hint style="warning" %}
 **One-time purchase only.**
@@ -192,16 +200,18 @@ Instant Level 50 = 0 days
 
 ### Pricing
 
-| Your Level | TON Price | Stars Price |
-|------------|-----------|-------------|
-| **1-49** | 100 TON | Not available |
-| **50-74** | 50 TON | Not available |
-| **75+** | Not available | - |
+| Your Level | TON Price |
+|------------|-----------|
+| **1-49** | 100 TON |
+| **50-74** | 50 TON |
+| **75+** | Not available |
 
 {% hint style="info" %}
 **50% discount if purchased at Level 50+.**
 
 Better value to reach Level 50 first, then buy Megalodon.
+
+**Telegram Stars payment available** with dynamic pricing.
 {% endhint %}
 
 ### Who Should Buy?
@@ -253,12 +263,12 @@ Instant Level 75 = 0 days
 
 ### Pricing
 
-| Your Level | TON Price | Stars Price |
-|------------|-----------|-------------|
-| **1-49** | 200 TON | Not available |
-| **50-74** | 150 TON | Not available |
-| **75-99** | 100 TON | Not available |
-| **100** | Not available | - |
+| Your Level | TON Price |
+|------------|-----------|
+| **1-49** | 200 TON |
+| **50-74** | 150 TON |
+| **75-99** | 100 TON |
+| **100** | Not available |
 
 {% hint style="success" %}
 **Progressive Discounts:**
@@ -266,6 +276,8 @@ Instant Level 75 = 0 days
 Buy at Level 75+ = **50% OFF** (100 TON vs. 200 TON)
 
 Reward for playing before buying!
+
+**Telegram Stars payment available** with dynamic pricing.
 {% endhint %}
 
 ### Who Should Buy?
@@ -278,7 +290,7 @@ Reward for playing before buying!
 - Immediate airdrop qualification
 - Maximum passive income
 
-**Cost:** 200 TON (~$1,000)
+**Cost:** 200 TON
 
 {% endtab %}
 
@@ -325,7 +337,7 @@ Reward for playing before buying!
 ### On-Demand Energy
 
 **Price:**
-- 1 TON / 100 Stars per refill
+- 1 TON per refill (Stars pricing dynamic)
 - Instant full energy restoration
 - Unlimited purchases
 
@@ -345,7 +357,7 @@ Level 60 + Leverage x3 + Happy Fifth x5
 = 900 coins/tap
 × 1,000 energy = 900,000 coins
 
-Cost: 1 TON (~$5)
+Cost: 1 TON (~$1.50)
 Earnings: 900K coins
 ```
 
@@ -370,7 +382,7 @@ Earnings: 900K coins
 ### Extra Gambling Attempts
 
 **Price:**
-- 1 TON / 100 Stars = +10 flips
+- 1 TON = +10 flips (Stars pricing dynamic)
 
 **Free daily limit:** 50 flips
 
@@ -392,8 +404,8 @@ Better to spend TON on Leverage or Orca.
 
 ### ROI Analysis
 
-| Package | Price | Time Saved | Earnings Boost | ROI |
-|---------|-------|------------|----------------|-----|
+| Package | TON Price | Time Saved | Earnings Boost | ROI |
+|---------|-----------|------------|----------------|-----|
 | **Leverage x2** | 5 TON | N/A | 2x tapping | ⭐⭐⭐⭐⭐ |
 | **Leverage x3** | +7.5 TON | N/A | 3x tapping | ⭐⭐⭐⭐⭐ |
 | **Leverage x4** | +10 TON | N/A | 4x tapping | ⭐⭐⭐⭐☆ |
@@ -407,26 +419,26 @@ Better to spend TON on Leverage or Orca.
 
 ## 🎯 Recommended Purchase Paths
 
-### Budget Conscious ($25-50)
+### Budget Conscious (~$18-35)
 
-**Total: ~10 TON**
+**Total: ~10-22.5 TON**
 
 1. ✅ Leverage x2 (5 TON)
 2. ✅ Leverage x3 (+7.5 TON)
-3. ⏸️ Stop here
+3. ⏸️ Stop here, or continue to x4 (+10 TON)
 
 **Result:**
-- 3x tap power permanently
-- ~3x earnings boost
+- 3-4x tap power permanently
+- ~3-4x earnings boost
 - Best ROI in game
 
 **Timeline to Level 100:** 2-3 months
 
 ***
 
-### Accelerated Path ($100-250)
+### Accelerated Path (~$75-100)
 
-**Total: ~50 TON**
+**Total: ~50-65 TON**
 
 1. ✅ Orca (50 TON) - Instant Level 50
 2. ✅ Leverage x2 (5 TON)
@@ -441,7 +453,7 @@ Better to spend TON on Leverage or Orca.
 
 ***
 
-### Whale Path ($500+)
+### Whale Path (~$150-250)
 
 **Total: ~100-150 TON**
 
@@ -459,7 +471,7 @@ Better to spend TON on Leverage or Orca.
 
 ***
 
-### Instant Gratification ($1,000+)
+### Instant Gratification (~$300)
 
 **Total: ~200 TON**
 
@@ -502,22 +514,32 @@ Better to spend TON on Leverage or Orca.
 
 **In-app currency:**
 
+**How Stars Pricing Works:**
+- Prices are **dynamically calculated** in real-time
+- Based on current **TON/Stars exchange rate** from CoinGecko API
+- Exact Stars cost shown at checkout
+- Rate updates every 60 seconds
+
 **How to Get Stars:**
 1. Telegram app → Settings → Stars
 2. Purchase Stars bundles
 3. Use Stars in-game
 
-**Conversion:**
-```
-1 TON ≈ 100 Stars
-```
-
 **Process:**
 1. Click "Buy with Stars"
-2. Telegram native payment
-3. Instant credit
+2. See dynamic Stars price at checkout
+3. Telegram native payment
+4. Instant credit
 
 **Transaction time:** Instant
+
+{% hint style="info" %}
+**Why Dynamic Pricing?**
+
+TON/Stars exchange rate fluctuates. Dynamic pricing ensures fair value regardless of when you purchase.
+
+**Stars cost is always equivalent to the TON price** at the moment of purchase.
+{% endhint %}
 
 ***
 
@@ -529,6 +551,7 @@ Better to spend TON on Leverage or Orca.
 - ✅ Server-side validation
 - ✅ On-chain verification (TON)
 - ✅ Telegram receipt (Stars)
+- ✅ Real-time price validation
 - ✅ Anti-fraud detection
 
 **You won't be charged without receiving items.**
@@ -557,12 +580,16 @@ Better to spend TON on Leverage or Orca.
 
 **Comparison:**
 
-| Path | Cost | Time to Lvl 100 |
-|------|------|-----------------|
+| Path | Approx. Cost | Time to Lvl 100 |
+|------|--------------|-----------------|
 | **Free-to-Play** | $0 | 3-4 months |
-| **Leverage Only** | $50 | 2-3 months |
-| **Orca + Leverage** | $250 | 1-2 months |
-| **Blue Whale** | $1,000 | Day 1 |
+| **Leverage Only** | ~$18-35 | 2-3 months |
+| **Orca + Leverage** | ~$75-100 | 1-2 months |
+| **Blue Whale** | ~$300 | Day 1 |
+
+{% hint style="info" %}
+**Note:** TON prices are approximate and based on current market rate (~$1.50/TON). Actual USD cost varies with TON price fluctuations.
+{% endhint %}
 
 **Premium = Time savings, NOT exclusive access.**
 
@@ -575,10 +602,10 @@ Better to spend TON on Leverage or Orca.
 
 1. **Start free-to-play** (first 2-4 weeks)
 2. **Assess commitment** (still playing daily?)
-3. **Buy Leverage x2-x3** (~10-12 TON)
+3. **Buy Leverage x2-x3** (~10-12.5 TON)
 4. **Grind to 100** with 3x boost
 
-**Total cost:** $50-60
+**Total cost:** ~$18-30
 **Time saved:** 1-2 months
 **ROI:** Excellent
 
