@@ -30,6 +30,7 @@
 ## Technical
 
 * [⚡ Performance & Technology](technical/performance.md)
+* [🤝 Collaboration API](technical/collaboration-api.md)
 
 ## Support
 
